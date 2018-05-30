@@ -1,0 +1,24 @@
+{
+  "name": "ngit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "simple-git": "^1.95.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uranoni/ngit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uranoni/ngit/issues"
+  },
+  "homepage": "https://github.com/uranoni/ngit#readme"
+}
